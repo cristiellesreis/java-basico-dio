@@ -1,8 +1,7 @@
 public class Escopo {
-    public static void main(String[] args) throws Exception {
-
+    public static void main(String[] args) {
+        
         //escopo
-
         public class Conta {
             //variavel da classe conta
             double saldo=10.0;
@@ -32,6 +31,6 @@ public class Escopo {
                 
                 return valorMontante;
             }
-        }
+        } 
     }
 }
