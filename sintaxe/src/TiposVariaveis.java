@@ -2,6 +2,7 @@ public class TiposVariaveis {
 
     public static void main(String[] args) throws Exception {
 
+        /* 
         //tipos primitivos de dados
         byte idade = 123;
         short ano = 2021;
@@ -21,7 +22,7 @@ public class TiposVariaveis {
 	
 		final double VALOR_DE_PI = 3.14;
 		
-        VALOR_DE_PI=3.15; //Esta linha vai apresentar erro de compilação!
+        VALOR_DE_PI=3.15; //Esta linha vai apresentar erro de compilação!*/
     } 
     
 }
